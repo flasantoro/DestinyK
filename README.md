@@ -1,7 +1,7 @@
 # DestinyK
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://github.com/flasantoro/pics/assets/129131822/62df0fac-098d-4fb6-8d79-d52e77906015)
 
 # Sobre o Projeto
 
@@ -11,14 +11,14 @@
 
 # Sumário
 
-* [Sobre](Sobre-o-projeto)
-* [Sumário](Sumário)
-* [Requisitos](Requisitos)
-*    [Persona](Persona)
-*   [Cenário](Cenário)
+* [Sobre](#sobre-o-projeto)
+* [Sumário](#sumário)
+* [Requisitos](#requisitos)
+	>[Persona](Persona)
+	>> [Cenário](Cenário)
 * [Prototipos](Protótipos)
-*   [Protótipo lo-fi](Protótipo-lo-fi)
-*   [Protótipo hi-fi](Protótipo-hi-fi)
+	>[Protótipo lo-fi](Protótipo-lo-fi)
+	>>[Protótipo hi-fi](Protótipo-hi-fi)
 * [Implementação](Implementação)
 * [Relatório Analítico ](Relatório-Analítico)
 * [Tecnologias Usadas](#tecnologias-usadas)
