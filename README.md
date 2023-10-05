@@ -34,7 +34,7 @@
 ## Cenário
 
 
-# Prótotipos
+# Protótipos
 
 ## Protótipo lo-fi
 
