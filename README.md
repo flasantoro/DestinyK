@@ -1,7 +1,7 @@
 # DestinyK
 
 
-![Capa do Projeto](https://github.com/flasantoro/pics/assets/129131822/62df0fac-098d-4fb6-8d79-d52e77906015)
+![DestinyK](https://github.com/flasantoro/DestinyK/assets/129131822/6dea3c63-0716-4fcd-8f97-3a765e9d52a6)
 
 # Sobre o Projeto
 
