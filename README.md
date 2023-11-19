@@ -16,7 +16,7 @@ sem precisar entrar em mais aplicativos.
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#sumário)
 * [Requisitos](#requisitos)
-* [Persona](Persona)
+* [Persona](#persona)
 * [Cenário](Cenário)
 * [Prototipos](Protótipos)
   * [Protótipo lo-fi](Protótipo-lo-fi)
