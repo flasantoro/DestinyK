@@ -32,6 +32,7 @@ sem precisar entrar em mais aplicativos.
 # Requisitos  
 
 # Persona
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/2bf7cf5c-621e-4d33-9904-7c5e539f7f82)
 
 # Cenário
 
