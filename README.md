@@ -30,6 +30,15 @@ sem precisar entrar em mais aplicativos.
 
 
 # Requisitos  
+□ **Método de pesquisas de destinos:** Assim que o usuário informar o local, data de ida e volta Isso <br/>
+facilitaria para o app a filtrar as melhores opções ao usuário de hotéis, casas para locação, restaurantes, <br/> 
+pontos turísticos, clima do local e atrações. <br/> <br/>
+□ **Reservas:** O app disponibiliza ao usuário o tipo de viagem, assentos no avião e assentos de ônibus, devendo <br/>
+assim informar as datas e horários como uma agenda. <br/> <br/>
+□ **Programação de viagens:** O app deve fornecer recursos para criar itinerários de pontos turísticos e atrações, <br/>
+sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
+□ **Verificação de visto:** O sistema deve fornecer informações sobre vistos de países estrangeiros caso a viagem seja internacional. <br/> <br/>
+□ **Pesquisa de guias:** O sistema deve fornecer uma pesquisa de guias turísticos e tradutores se necessário.<br/>
 
 # Persona
 ![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/2bf7cf5c-621e-4d33-9904-7c5e539f7f82)
