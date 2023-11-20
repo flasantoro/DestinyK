@@ -46,7 +46,7 @@ sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
 ![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/2bf7cf5c-621e-4d33-9904-7c5e539f7f82)
 
 # Cenário
-![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/ba87b1b7-e215-4a0a-8ac0-096897c44efe)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/4a367811-f57a-4bd1-abc6-b8b715ac1f13)
 
 
 # Protótipos
