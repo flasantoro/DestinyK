@@ -30,15 +30,17 @@ sem precisar entrar em mais aplicativos.
 
 
 # Requisitos  
-□ **Método de pesquisas de destinos:** Assim que o usuário informar o local, data de ida e volta Isso <br/>
-facilitaria para o app a filtrar as melhores opções ao usuário de hotéis, casas para locação, restaurantes, <br/> 
-pontos turísticos, clima do local e atrações. <br/> <br/>
-□ **Reservas:** O app disponibiliza ao usuário o tipo de viagem, assentos no avião e assentos de ônibus, devendo <br/>
-assim informar as datas e horários como uma agenda. <br/> <br/>
-□ **Programação de viagens:** O app deve fornecer recursos para criar itinerários de pontos turísticos e atrações, <br/>
+□ RF1 - **Método de pesquisas de destinos:** Assim que o usuário informar o local, data de ida e volta, <br/>
+o aplicativo deve mostrar as melhores opções ao usuário de hotéis, casas para locação, restaurantes e <br/> 
+pontos turísticos. <br/> <br/>
+□ RF2 -  **Diário de Reservas:** O aplicativo deve disponibilizar a opção para o usuário informar o tipo de viagem, assentos no avião e/ou assentos de ônibus, <br/> 
+reservas de acomodações devendo assim informar as datas e horários como uma agenda. <br/> <br/>
+□ RF3 - **Roteiro:** O app deve fornecer recursos para criar itinerários de pontos turísticos e atrações, <br/>
 sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
-□ **Verificação de visto:** O sistema deve fornecer informações sobre vistos de países estrangeiros caso a viagem seja internacional. <br/> <br/>
-□ **Pesquisa de guias:** O sistema deve fornecer uma pesquisa de guias turísticos e tradutores se necessário.<br/>
+□ RF4 - **Bússula:** O aplicativo deve disponibilizar uma bússola para o usuário offline.    <br/> <br/>
+□ RF5 - **Pesquisa de guias:** O sistema deve fornecer uma pesquisa de guias turísticos e tradutores se necessário.<br/> <br/>
+□ RF4 - **Mapa:** O aplicativo deve disponibilizar o mapa para o usuário e a opção de dowload de rota para uso offline.    <br/> 
+
 
 # Persona
 ![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/2bf7cf5c-621e-4d33-9904-7c5e539f7f82)
