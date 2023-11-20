@@ -33,7 +33,7 @@ sem precisar entrar em mais aplicativos.
 □ RF1 - **Método de pesquisas de destinos:** Assim que o usuário informar o local, data de ida e volta, <br/>
 o aplicativo deve mostrar as melhores opções ao usuário de hotéis, casas para locação, restaurantes e <br/> 
 pontos turísticos. <br/> <br/>
-□ RF2 -  **Diário de Reservas:** O aplicativo deve disponibilizar a opção para o usuário informar o tipo de viagem, assentos no avião e/ou assentos de ônibus, <br/> 
+□ RF2 -  **Agenda de viagem:** O aplicativo deve disponibilizar a opção para o usuário informar o tipo de viagem, assentos no avião e/ou assentos de ônibus, <br/> 
 reservas de acomodações devendo assim informar as datas e horários como uma agenda. <br/> <br/>
 □ RF3 - **Roteiro:** O app deve fornecer recursos para criar itinerários de pontos turísticos e atrações, <br/>
 sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
