@@ -25,8 +25,7 @@ mapa e bussola,sem precisar entrar em mais aplicativos.
 * [Relatório Analítico ](#relatório-analítico)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+
 
 
 # Requisitos  
@@ -66,9 +65,10 @@ sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
 
 
 # Autores
-
-
-# Licença
-
-
-# Agradecimentos
+FELIPE LARINI ANSELMO 1302213664
+FLÁVIA SANTORO DE OLIVEIRA 1302211033
+GUILHERME DA CUNHA RIBEIRO 1302211210
+MATEUS SIMÕES NEUBARTH 1292224400
+MATHEUS NUNES ANDRADE 1302211244
+PAULO RAFAEL DA SILVA VIRGENS RODRIGUES 1272216497
+YURI SANTA ROSA BESSAYuri 12723113151
