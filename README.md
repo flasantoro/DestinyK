@@ -8,8 +8,8 @@
 O aplicativo tem como proposta a organização de roteiro de viagem, <br/>
 o úsuario irá informar seu destino e a data da viagem, selecionar <br/>
 os locais que deseja vistar e organizar o roteiro em ordem crónologica. <br/>
-Dentro do app, o utilizador consegue ter rápido acesso a agenda, roteiro, mapa e bussola, <br/>
-sem precisar entrar em mais aplicativos.
+Dentro do app, o utilizador consegue ter rápido acesso a agenda, roteiro,  <br/>
+mapa e bussola,sem precisar entrar em mais aplicativos.
 
 # Sumário
 
