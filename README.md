@@ -53,7 +53,8 @@ sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
 ## Protótipo lo-fi
 
 ## Protótipo hi-fi
-https://www.figma.com/file/SjLJGRRP0DpKTcBGTbAYC1/DestinyK?type=design&mode=design&t=SpE0ZPIZ4INiG2Y3-1
+[Protótipo interativo](https://www.figma.com/file/SjLJGRRP0DpKTcBGTbAYC1/DestinyK?type=design&mode=design&t=SpE0ZPIZ4INiG2Y3-1)
+
 ![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/1c0026cd-368c-4ad3-9504-935391b845cc)
 
 
