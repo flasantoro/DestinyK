@@ -6,10 +6,10 @@
 # Sobre o Projeto
 
 O aplicativo tem como proposta a organização de roteiro de viagem, <br/>
-o úsuario irá informar seu destino e a data da viagem, selecionar <br/>
-os locais que deseja vistar e organizar o roteiro em ordem crónologica. <br/>
+o usuário irá informar seu destino e a data da viagem, selecionar <br/>
+os locais que deseja visitar e organizar o roteiro em ordem cronológica. <br/>
 Dentro do app, o utilizador consegue ter rápido acesso a agenda, roteiro,  <br/>
-mapa e bussola,sem precisar entrar em mais aplicativos.
+mapa e bussola, sem precisar entrar em mais aplicativos.
 
 # Sumário
 
@@ -77,4 +77,4 @@ GUILHERME DA CUNHA RIBEIRO 1302211210<br/>
 MATEUS SIMÕES NEUBARTH 1292224400<br/>
 MATHEUS NUNES ANDRADE 1302211244<br/>
 PAULO RAFAEL DA SILVA VIRGENS RODRIGUES 1272216497<br/>
-YURI SANTA ROSA BESSAYuri 12723113151<br/>
+YURI SANTA ROSA BESSA 12723113151<br/>
