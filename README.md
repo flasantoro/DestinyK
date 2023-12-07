@@ -21,9 +21,7 @@ mapa e bussola, sem precisar entrar em mais aplicativos.
 * [Prototipos](#protótipos)
   * [Protótipo lo-fi](#protótipo-lo-fi)
   * [Protótipo hi-fi](#protótipo-hi-fi)
-* [Implementação](#implementação)
 * [Relatório Analítico ](#relatório-analítico)
-* [Tecnologias Usadas](#tecnologias-usadas)
 * [Autores](#autores)
 
 
@@ -60,13 +58,24 @@ sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
 ![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/1c0026cd-368c-4ad3-9504-935391b845cc)
 
 
-# Implementação
-
-
 # Relatório Analítico 
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/bbe59b09-8ddb-4f93-83cf-7f473df1ef4e)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/21e8b748-701f-4b76-bad2-f0b51e4c39e5)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/e6e85944-5ff0-4161-b234-ae48b6482331)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/0e6fc1cd-ccc9-441e-a393-4d0ed85ee044)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/c59c709e-9f53-45ed-9f6e-774cafc8173b)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/e85268aa-46f8-47b0-b897-3aa265d494ec)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/9bd85746-f1ca-4adc-bd18-eb617c0e9fdf)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/ec953686-83d1-43fc-b81d-c4770ba09c9d)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/9b2a52ba-725e-42ed-8ecb-27d6b2722fa0)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/3274d864-adba-47e2-bb23-1e467a22a8c9)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/7204f849-f0b8-4765-b15b-0863761aef2a)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/55152189-cf04-4012-a33a-c0d412a09fc1)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/673df691-0bdb-416d-ba2d-add90d5b1b12)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/a9f9d847-bc96-4f64-8c90-cf3b6493250a)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/b6904558-b409-4c65-8327-f361ddf868f4)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/8d3bb9ab-6cf4-4192-bdac-95a94c45cbeb)
 
-
-# Tecnologias Usadas
 
 
 # Autores
