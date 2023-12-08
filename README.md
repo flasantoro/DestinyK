@@ -49,7 +49,7 @@ sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
 # Protótipos
 
 ## Protótipo lo-fi
-![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/7bd04635-c466-4069-9275-74b131edeeb4)
+
 ![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/5b29dee2-e7ff-40d0-bafb-d29c1b5c4a1a)
 
 ## Protótipo hi-fi
