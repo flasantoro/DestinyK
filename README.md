@@ -49,8 +49,8 @@ sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
 # Protótipos
 
 ## Protótipo lo-fi
-![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/5665b39f-8450-48b4-ad69-da9c5c34f61b)
 ![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/5b29dee2-e7ff-40d0-bafb-d29c1b5c4a1a)
+![DestinyK (1)](https://github.com/flasantoro/DestinyK/assets/129131822/5665b39f-8450-48b4-ad69-da9c5c34f61b)
 
 ## Protótipo hi-fi
 [Project](https://www.figma.com/file/SjLJGRRP0DpKTcBGTbAYC1/DestinyK?type=design&mode=design&t=SpE0ZPIZ4INiG2Y3-1)
