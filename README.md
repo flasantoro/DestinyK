@@ -82,7 +82,7 @@ sendo atualizados a cada ponto que o usuário visitar <br/> <br/>
 
 # Apresentação
 
-[Apresentação do projeto] (https://youtu.be/_dE9ej8FLKc)
+[Apresentação do projeto](https://youtu.be/_dE9ej8FLKc)
 
 # Autores
 FELIPE LARINI ANSELMO 1302213664<br/>
